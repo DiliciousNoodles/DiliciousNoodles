@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DiliciousNoodles
-- 😼 I from xidian university
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning codeing
 - 💞️ I’m looking to collaborate on learning
