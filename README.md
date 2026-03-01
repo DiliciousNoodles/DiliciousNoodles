@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiliciousNoodles
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning codeing
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me : coldnoodles76@qq.com
 
